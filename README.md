@@ -1,1 +1,2 @@
-Project : My Vidyon Intelligent Onboarding Platform
+Project : My Vidyon Intelligent Onboarding Platformgit
+Stage : Updated on Day 2.
