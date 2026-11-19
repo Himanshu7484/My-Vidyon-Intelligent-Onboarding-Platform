@@ -1,34 +1,15 @@
-Project : My Vidyon Intelligent Onboarding Platform
+Project : My Vidyon Intelligent Onboarding Platformgit
+# Project Name
+A brief 1–2 sentence description of what your project does.
 
+## Folder Structure
+- `docs/` – System architecture diagrams and documentation
+- `frontend/` – User interface components, pages, and styles
+- `backend/` – Server logic, API routes, and database models
+- `tests/` – Application test files
 
-Stage : Updated on Day 2.
-
-
-# MyVidyon Intelligent Onboarding Platform
-
-A step-by-step onboarding portal for students and institutions with document
-upload, OCR-based validation, an AI assistant and a staff review dashboard.
-
-## Tech Stack
-Next.js, React, TypeScript, Tailwind CSS, Node.js, Supabase, PostgreSQL,
-Tesseract OCR, OpenAI API
-
-## Project Structure
-- `docs/` - architecture diagram and documentation
-- `frontend/` - Next.js web app (applicant portal and admin dashboard)
-- `backend/` - Node.js API (routes, controllers, services)
-- `database/` - schema and migrations
-- `tests/` - frontend, backend and e2e tests
-
-## Modules
-1. Authentication & Authorization
-2. Onboarding Wizard
-3. Document Management
-4. OCR & Validation
-5. AI Assistant
-6. Reviewer Dashboard
-7. Notification
-8. Audit Log & Database
-
-## Status
-Phase 1: project analysis and folder structure completed.
+## Core Modules
+1. **Frontend Module:** Handles user interface, forms, and navigation.
+2. **Authentication Module:** Manages user registration, login, and security.
+3. **Backend API Module:** Processes requests and business logic.
+4. **Database Module:** Stores and retrieves user and application data.
